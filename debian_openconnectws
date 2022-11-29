@@ -1,9 +1,0 @@
-#!/bin/bash
-#Script Variables
-HOST='66.45.227.43';
-USER='shakilma_shakilchackpenel';
-PASS='shakilchackpenel@@';
-DBNAME='shakilma_shakilchackpenel';
-PORT_TCP='1194';
-PORT_UDP='None';
-404: Not Found
